@@ -1,4 +1,5 @@
--Yêu cầu:                           
+-Yêu cầu:         
+python                       3.8
 imutils                      0.5.4 
 keras                        2.11.0
 numpy                        1.23.5
